@@ -39,6 +39,10 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/omair-inam/golang-notes/tree/main/packages/create-docusaurus/templates/shared/',
+          exclude:
+          [
+            '**/tutorial*/**'
+          ]            
         },
         blog: false,
         theme: {
