@@ -17,13 +17,8 @@ You should see your status bar updated with some additional information:
 The Go Plugin
 ![Static Analysis Tools](../../static/img/vscode_static_analysis.png)
 
-:::info
-gvm's official documentation includes the same script but uses `bash` instead of `zsh`
-:::
-
 ## Keyboard Shortcuts
 
-:::tip VSCode Tip
-To display tooltip documentation in  for a method type <kbd>&#8984;</kbd>+<kbd>K</kbd>, <kbd>&#8984;</kbd>+<kbd>I</kbd>
-:::
+* Display documentation tooltip: <kbd>&#8984;</kbd>+<kbd>K</kbd>, <kbd>&#8984;</kbd>+<kbd>I</kbd>
+
 
